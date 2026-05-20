@@ -1,16 +1,22 @@
-## Hi there 👋
+# Pozdrav, ja sam Emin Tulumović 👋
 
-<!--
-**emintulumovic/emintulumovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Učenik sam trećeg razreda Elektrotehničke škole u Tuzli, smjer **Tehničar računarstva**.  
+Volim programirati i stalno učiti nove stvari. 💡
 
-Here are some ideas to get you started:
+## 🛠️ Tehnologije koje koristim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Flowcode** — programiranje PIC mikrokontrolera
+- Osnove digitalne elektronike
+- Simulacija i testiranje sklopova
+
+## 📂 Moji projekti
+
+| Projekat | Opis |
+|----------|------|
+| [⏱️ Štoperica](https://github.com/emintulumovic/stoperica) | Precizna digitalna štoperica sa LCD displejom (MM:SS:ss) |
+| [🚦 Semafor](https://github.com/emintulumovic/semafor) | Koordinisani semafor za vozila i pješake |
+
+## 📬 Kontakt
+
+- 🏫 ETŠ Tuzla
+- 📍 Tuzla, Bosna i Hercegovina
