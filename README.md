@@ -15,4 +15,4 @@ Učenik trećeg razreda ETŠ Tuzla, smjer tehničar računarstva. Volim raditi n
 
 ## Kontakt
 
-ETŠ Tuzla, Bosna i Hercegovina
+emintulumovic20@gmail.com
