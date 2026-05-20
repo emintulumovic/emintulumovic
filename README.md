@@ -1,22 +1,18 @@
-# Pozdrav, ja sam Emin Tulumović 👋
+# Emin Tulumović
 
-Učenik sam trećeg razreda Elektrotehničke škole u Tuzli, smjer **Tehničar računarstva**.  
-Volim programirati i stalno učiti nove stvari. 💡
+Učenik trećeg razreda ETŠ Tuzla, smjer tehničar računarstva. Volim raditi na projektima i učiti dok radim.
 
-## 🛠️ Tehnologije koje koristim
+## Šta radim
 
-- **Flowcode** — programiranje PIC mikrokontrolera
-- Osnove digitalne elektronike
-- Simulacija i testiranje sklopova
+- Programiranje u Flowcode-u
+- PIC mikrokontroleri i simulacije
+- Elektronika i digitalni sklopovi
 
-## 📂 Moji projekti
+## Projekti
 
-| Projekat | Opis |
-|----------|------|
-| [⏱️ Štoperica](https://github.com/emintulumovic/stoperica) | Precizna digitalna štoperica sa LCD displejom (MM:SS:ss) |
-| [🚦 Semafor](https://github.com/emintulumovic/semafor) | Koordinisani semafor za vozila i pješake |
+- [Štoperica](https://github.com/emintulumovic/stoperica) — štoperica sa LCD ekranom, format MM:SS:ss, četiri tastera
+- [Semafor](https://github.com/emintulumovic/semafor) — koordinisani semafor za vozila i pješake
 
-## 📬 Kontakt
+## Kontakt
 
-- 🏫 ETŠ Tuzla
-- 📍 Tuzla, Bosna i Hercegovina
+ETŠ Tuzla, Bosna i Hercegovina
